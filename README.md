@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=39FF88&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;AI%2FML+Enthusiast;B.Tech+CSE+%40+Mohan+Babu+University;Building+scalable+%2C+practical+software)](https://git.io/typing-svg)
 
+**Computer Science Engineering Student | Java & DSA | Full-Stack Developer | React • Node.js • SQL | AI/ML**
+
 <p align="left">
   <a href="mailto:sailikitas@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/sailikita05"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -29,7 +31,7 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech in Computer Science Engineering (AI/ML) — Mohan Babu University, Nellore, Andhra Pradesh · Class of 2027
+- 🎓 B.Tech in Computer Science Engineering (AI/ML) — Mohan Babu University, Tirupati, Andhra Pradesh · Class of 2027
 - 💻 Full-stack developer with a strong foundation in Java, Python, SQL, DSA & OOP
 - 🧠 Building AI/ML-powered applications — chatbots, automation agents, and LLM-based tools
 - 🏢 Completed internships at NTS Nihon Global, Unified Mentor, and SmartBridge
@@ -38,8 +40,8 @@
 > *"I build practical software that solves real problems — one project at a time."*
 
 ## 🏅 Achievements
-- 🎓 Maintaining a strong academic record — **8.54 CGPA**, 7th semester B.Tech CSE
-- 🏆 Cleared **Infosys HackWithInfy Round 1**
+- 🎓 8.54 CGPA | 7th-semester B.Tech CSE student
+- 🏆 Cleared Infosys HackWithInfy Round 1
 - 👑 Team Lead — OpenEnv project
 - 📜 Certified: Meta (Front-End Development) · Microsoft (Python Fundamentals) · IBM (AI) · MathWorks (Computer Vision) · Coursera (Advanced Relational Database & SQL)
 
@@ -78,52 +80,57 @@ DSA • OOP • DBMS
 **AI / ML**
 ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM%20Apps-39FF88?style=for-the-badge&logo=huggingface&logoColor=black)
-Prompt Engineering • Chatbots • Automation Agents • NLP
+LLMs • Prompt Engineering • NLP • AI Agents
 
 ## 💼 Featured Projects
 
 ### 🔐 EPLQ
-Encrypted, privacy-preserving location query app.
-- ✔ Privacy-preserving query design over encrypted location data
+Privacy-preserving location-based service for securely storing and searching Points of Interest without exposing sensitive location information.
+- ✔ Encrypted query design so location data stays protected even during search
 - 🔗 [Repo](https://github.com/sailikita123)
 
 ### 🤖 Customer-Support-AI-Environment
-AI-driven customer support platform.
-- ✔ AI-assisted response handling for support workflows
+AI-powered customer support environment for generating and evaluating automated responses using LLM-based workflows.
+- ✔ LLM-driven response generation with an evaluation loop for response quality
 - 🔗 [Repo](https://github.com/sailikita123)
 
 ### 🔄 SAP-Style-Data-Reconciliation-Chatbot
-Chatbot for SAP-style data reconciliation.
-- ✔ Automates reconciliation checks via conversational interface
+Conversational chatbot that automates SAP-style data reconciliation checks, replacing manual row-by-row comparison.
+- ✔ Automates reconciliation checks via a conversational interface
 - 🔗 [Repo](https://github.com/sailikita123)
 
-### 📋 Ai-Attendence-Checker
-Automated attendance detection tool.
+### 📋 AI-Attendance-Checker
+Automated attendance detection tool that identifies and logs presence from input data without manual entry.
 - 🔗 [Repo](https://github.com/sailikita123)
 
 ### ✈️ Airline-Management-System
-Airline booking & management system.
+Airline booking & management system handling flight search, booking, and reservation management.
 - 🔗 [Repo](https://github.com/sailikita123)
 
 ### ❓ interactive-quiz
-Interactive quiz web application.
+Interactive quiz web application with real-time scoring and question navigation.
 - 🔗 [Repo](https://github.com/sailikita123)
 
 ### 🌐 portfolio-sailikita
-Personal developer portfolio site.
+Personal developer portfolio site showcasing projects, skills, and resume.
 - 🔗 [Repo](https://github.com/sailikita123)
 
 ### 🛠️ support-ai-demo
-Proof-of-concept demo for the support-AI platform.
+Proof-of-concept demo of the Customer-Support-AI-Environment for quick evaluation before full deployment.
 - 🔗 [Repo](https://github.com/sailikita123)
+
+## 💻 Coding Profiles
+[![LeetCode](https://img.shields.io/badge/LeetCode-Java%20%26%20DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sai_likita05)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sailikita123)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sailikita05)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 ## 📈 GitHub Analytics
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sailikita123&theme=react&hide_border=true&background=0D1117&ring=39FF88&fire=FF9D3C&currStreakLabel=39FF88)
 
 ![Snake contribution animation](https://raw.githubusercontent.com/sailikita123/sailikita123/output/github-contribution-grid-snake.svg)
-
-![Custom animated contribution graph](github-contribution-animation.svg)
 
 ![Custom animated contribution graph](github-contribution-animation.svg)
 
