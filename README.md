@@ -45,15 +45,30 @@
 
 ## ⚡ Tech Stack
 
-**Languages & Core**
+**Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+**Core CS**
+DSA • OOP • DBMS
 
 **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -104,14 +119,11 @@ Proof-of-concept demo for the support-AI platform.
 
 ## 📈 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sailikita123&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=39FF88&icon_color=00E5FF&text_color=C9D1D9)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sailikita123&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=39FF88&text_color=C9D1D9)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sailikita123&theme=react&hide_border=true&background=0D1117&ring=39FF88&fire=FF9D3C&currStreakLabel=39FF88)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sailikita123&theme=react-dark&bg_color=0D1117&color=39FF88&line=00E5FF&point=FFFFFF&hide_border=true)
-
 ![Snake contribution animation](https://raw.githubusercontent.com/sailikita123/sailikita123/output/github-contribution-grid-snake.svg)
+
+![Custom animated contribution graph](github-contribution-animation.svg)
 
 ![Custom animated contribution graph](github-contribution-animation.svg)
 
