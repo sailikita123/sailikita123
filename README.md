@@ -1,4 +1,4 @@
-# Hi there, I'm Sai Likita 👋
+# Hi there, I'm Samanthula Sai Likita 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=39FF88&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;AI%2FML+Enthusiast;B.Tech+CSE+%40+Mohan+Babu+University;Building+scalable+%2C+practical+software)](https://git.io/typing-svg)
 
